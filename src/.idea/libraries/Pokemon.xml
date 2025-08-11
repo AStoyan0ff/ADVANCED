@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Pokemon">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/_12DefiningClassesEX/PokemonTrainer/Pokemon.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

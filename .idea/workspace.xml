@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66964109-28fa-4582-b0aa-c713a46d8468" name="Changes" comment="JavaScript" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/_JavaScript-PB" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AStoyan0ff&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AStoyan0ff/JS-PB&quot;,
+    &quot;accountId&quot;: &quot;e14aabf1-f7e2-4a11-a44a-9703eead2bbd&quot;
+  }
+}</component>
+  <component name="LLMProjectSettings">
+    <option name="turned_on" value="false" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2vH7jeQLeJ8ekv6wnCqfkdwivad" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BalancedParentheses.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrinterQueue.executor&quot;: &quot;Run&quot;,
+    &quot;Application._00Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application._00DemoMethods.executor&quot;: &quot;Debug&quot;,
+    &quot;Application._01BallGame.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01BrowserHistory.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01CarInfo.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01CompareMatrices.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01FillTheMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01ParkingLot.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01ReadFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01ReverseNumStack.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01ReverseNumbersWithStack.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01SumLines.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01UniqueUsernames.executor&quot;: &quot;Run&quot;,
+    &quot;Application._02BasicStackOperations.executor&quot;: &quot;Run&quot;,
+    &quot;Application._02MatrixPalindromes.executor&quot;: &quot;Run&quot;,
+    &quot;Application._02PositionOf.executor&quot;: &quot;Run&quot;,
+    &quot;Application._02SetsElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application._02SimpleCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application._02SimpleCalculators.executor&quot;: &quot;Run&quot;,
+    &quot;Application._02SoftUniParty.executor&quot;: &quot;Run&quot;,
+    &quot;Application._02SumBytes.executor&quot;: &quot;Run&quot;,
+    &quot;Application._02WriteFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application._03CountRealNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application._03Decimal.executor&quot;: &quot;Run&quot;,
+    &quot;Application._03DiagonalDifference.executor&quot;: &quot;Run&quot;,
+    &quot;Application._03IntersectionTwoMatrices.executor&quot;: &quot;Run&quot;,
+    &quot;Application._03Lectures.executor&quot;: &quot;Run&quot;,
+    &quot;Application._03MaximumElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application._04AverageStudentsGrades.executor&quot;: &quot;Run&quot;,
+    &quot;Application._04BasicQueueOperation.executor&quot;: &quot;Run&quot;,
+    &quot;Application._04MatchingBrackets.executor&quot;: &quot;Run&quot;,
+    &quot;Application._04MaximalSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application._04SumMatrixElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application._05MatrixShuffling.executor&quot;: &quot;Run&quot;,
+    &quot;Application._05Maximum2x2Submatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application._05PrinterQu_Lec.executor&quot;: &quot;Run&quot;,
+    &quot;Application._05ProductShop.executor&quot;: &quot;Run&quot;,
+    &quot;Application._05WriteEveryThirdLine.executor&quot;: &quot;Run&quot;,
+    &quot;Application._06AcademyGraduation.executor&quot;: &quot;Run&quot;,
+    &quot;Application._06HotPotato.executor&quot;: &quot;Run&quot;,
+    &quot;Application._06HotPotato_Lec.executor&quot;: &quot;Debug&quot;,
+    &quot;Application._06PrintDiagonalsMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application._06RecursiveFibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application._06StringMatrixRotation.executor&quot;: &quot;Run&quot;,
+    &quot;Application._07Largest3Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application._07LargestTreeNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application._07ListFiles.executor&quot;: &quot;Debug&quot;,
+    &quot;Application._07StreamsFilesDir._07ListFiles.executor&quot;: &quot;Run&quot;,
+    &quot;Application._07TheHeiganDance.executor&quot;: &quot;Run&quot;,
+    &quot;Application._08ParkingSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application._09RadioActiveMutantVampire.executor&quot;: &quot;Run&quot;,
+    &quot;Application._10ReverseMatrixDiagonals.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Node.js.01.Cinema.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.01.DaysOfWeek.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.01.ExcellentResult.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.01.FruitShop.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.01.Hello.js (1).executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.01.Hello.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.01.Numbers1-100.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.01.SumSeconds.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.01.USD to BGN.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.02.BonusScore.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.02.GreaterNumber.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.02.Num 1 to 10.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.02.Num1To10.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.02.PrintNumber.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.02.RadianstoDegrees.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.02.SummerOutfit.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.02.Weekend-WorkDay.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.02.WorldSnooker.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.02NumOneToTen.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.03.AnimalType.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.03.DepositCalculator.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.03.EvenOdd.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.03.NewHouse.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.03.SqareArea.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.03.Time+15Minutes.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.04.FishingBoat.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.04.InchesToCm.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.04.PasswordGuess.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.04.PersonalTitles.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.04.ToyShop.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.04.VacationBooksList.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.05. Number100...200.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.05.Godzilla-Kong.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.05.GreatingName.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.05.Journey.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.05.SmallShop.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.05.SuppliesSchool.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.06. ConcatenateData.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.06.NumberRange.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.06.OperationNumber.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.06.Repainting.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.06.SpeedInfo.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.06.WorldSwimmingRecord.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.07.AreaFigures.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.07.FoodDelivery.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.07.HotelRoom.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.07.ProjectsCreation.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.07.Shopping.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.07.WorkingHours.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.08.BasketballEquipment.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.08.CinemaTicket.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.08.LunchBreak.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.08.PetShop.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.08.TimeForExam.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.09.FishTank.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.09.Fruit-Vegetable.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.09.SkiTrip.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.09.YardGreening.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.10.InvalidNumber.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.11.FruitSHop.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.12.TradeCommissions.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/AStoyanoff/ADVANCED/ADVANCED&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/AStoyanoff/ADVANCED/ADVANCED/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\AStoyanoff\ADVANCED\ADVANCED\src\_08StreamsFilesDir\Ex" />
+      <recent name="C:\AStoyanoff\ADVANCED\ADVANCED\src\_07StreamsFilesDir" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.02.WorldSnooker.js">
+    <configuration name="_01CarInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11DefiningClasses._01CarInfo" />
+      <module name="ADVANCED" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_11DefiningClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_01UniqueUsernames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_06SetsAndMaps.Ex._01UniqueUsernames" />
+      <module name="ADVANCED" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_06SetsAndMaps.Ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_07ListFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_06SetsAndMaps.Ex._07ListFiles" />
+      <module name="ADVANCED" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_06SetsAndMaps.Ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_07StreamsFilesDir._07ListFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_07StreamsFilesDir._07ListFiles" />
+      <module name="ADVANCED" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_07StreamsFilesDir.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="02.WorldSnooker.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/_JavaScript-PB/13-ExamPreperation/02.WorldSnooker.js" working-dir="$PROJECT_DIR$/_JavaScript-PB/13-ExamPreperation">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.02.WorldSnooker.js" />
+        <item itemvalue="Application._01CarInfo" />
+        <item itemvalue="Application._01UniqueUsernames" />
+        <item itemvalue="Application._07StreamsFilesDir._07ListFiles" />
+        <item itemvalue="Application._07ListFiles" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26094.121" />
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-IU-251.26094.121" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66964109-28fa-4582-b0aa-c713a46d8468" name="Changes" comment="" />
+      <created>1743790284930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743790284930</updated>
+      <workItem from="1743790286343" duration="479000" />
+      <workItem from="1743790783966" duration="296000" />
+      <workItem from="1743791097234" duration="4223000" />
+      <workItem from="1743796381007" duration="3476000" />
+      <workItem from="1744664766371" duration="58000" />
+      <workItem from="1744664837215" duration="173000" />
+      <workItem from="1744667071486" duration="1287000" />
+      <workItem from="1744668465842" duration="1357000" />
+      <workItem from="1744703904544" duration="64000" />
+      <workItem from="1744847848641" duration="70000" />
+      <workItem from="1745335585797" duration="1037000" />
+      <workItem from="1745337137385" duration="39000" />
+      <workItem from="1745337191342" duration="1056000" />
+      <workItem from="1745531803747" duration="7189000" />
+      <workItem from="1745539086044" duration="38000" />
+      <workItem from="1745539448832" duration="84000" />
+      <workItem from="1745539622920" duration="857000" />
+      <workItem from="1745606147472" duration="933000" />
+      <workItem from="1745610478974" duration="2762000" />
+      <workItem from="1745613634808" duration="1225000" />
+      <workItem from="1746012484591" duration="29000" />
+      <workItem from="1746012848129" duration="385000" />
+      <workItem from="1746013971643" duration="17198000" />
+      <workItem from="1746210478024" duration="8915000" />
+      <workItem from="1746374377043" duration="11146000" />
+      <workItem from="1746473850225" duration="10498000" />
+      <workItem from="1746552047303" duration="14859000" />
+      <workItem from="1746570852404" duration="21000" />
+      <workItem from="1746571741347" duration="253000" />
+      <workItem from="1746572997658" duration="3149000" />
+      <workItem from="1746615218309" duration="4918000" />
+      <workItem from="1746630433717" duration="10746000" />
+      <workItem from="1746732148574" duration="2453000" />
+      <workItem from="1746742127364" duration="4048000" />
+      <workItem from="1746915792993" duration="3388000" />
+      <workItem from="1747055491457" duration="669000" />
+      <workItem from="1747063028655" duration="1500000" />
+      <workItem from="1747149774082" duration="20263000" />
+      <workItem from="1747175455773" duration="3153000" />
+      <workItem from="1747179096140" duration="2621000" />
+      <workItem from="1747247158499" duration="10200000" />
+      <workItem from="1747324591209" duration="16540000" />
+      <workItem from="1747353161246" duration="389000" />
+      <workItem from="1747518779661" duration="1063000" />
+      <workItem from="1747520415343" duration="2530000" />
+      <workItem from="1747590559024" duration="17268000" />
+      <workItem from="1747657475652" duration="34527000" />
+      <workItem from="1747757605435" duration="16157000" />
+      <workItem from="1747914812758" duration="5087000" />
+      <workItem from="1747947655502" duration="4876000" />
+      <workItem from="1747956806296" duration="157000" />
+      <workItem from="1747957123800" duration="1621000" />
+      <workItem from="1748011941537" duration="3526000" />
+      <workItem from="1748019007625" duration="17541000" />
+      <workItem from="1748194565652" duration="1072000" />
+      <workItem from="1748206762332" duration="2790000" />
+      <workItem from="1748276921504" duration="45000" />
+      <workItem from="1749596221442" duration="10000" />
+    </task>
+    <task id="LOCAL-00001" summary="JavaScript">
+      <option name="closed" value="true" />
+      <created>1748207971984</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748207971984</updated>
+    </task>
+    <task id="LOCAL-00002" summary="JavaScript">
+      <option name="closed" value="true" />
+      <created>1748208306734</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748208306734</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="JavaScript" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaScript" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
