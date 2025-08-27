@@ -125,3 +125,8 @@ for (int[] row : matrix) {
 ✔ `Stack`
 
 ✔ `PriorityQueue`
+
+---
+
+🔗 **Полезни линкове:**
+✔ `https://softuni.bg/trainings/courses`
