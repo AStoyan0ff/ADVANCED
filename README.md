@@ -98,3 +98,30 @@ for (int[] row : matrix) {
     System.out.println();
 }
 ```
+---
+
+✅ **Какво включа:**
+
+*Основни теми:*
+
+✔ `Generics`
+
+✔ `Iterators & Comparators`
+
+✔ `Functional Programming (Lambdas & Streams)`
+
+✔ `Collections Framework (List, Set, Map, Queue)`
+
+✔ `Multidimensional Arrays`
+
+*Допълнителни:*
+
+✔ `Streams API (по-подробно)`
+
+✔ `Sets и Maps`
+
+✔ `Queues и Deques`
+
+✔ `Stack`
+
+✔ `PriorityQueue`
